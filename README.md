@@ -1,4 +1,4 @@
-# Portable Speech Translator
+# Live Speech Translator
 
 This Python script implements a portable speech translator that can:
 
